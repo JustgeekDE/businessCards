@@ -6,6 +6,7 @@ There are currently 2 different types of cards:
 ## Power Supply
 ![Picture of power supply
 card](powerSupply/powerSupply.jpeg)
+
 This is a small breakout board for a 7805 linear voltage regulator made solely from through-hole
 components.  
 This board is mainly useful for people interested in learning more about electronics.
@@ -13,6 +14,7 @@ This board is mainly useful for people interested in learning more about electro
 ## Reference Card
 ![Picture of reference
 card](referenceBoard/referenceCard.jpeg)
+
 This board contains a series of examples of silkscreen sizes, component footprints and various design considerations.  
 The aim is to provide a useful size reference when design PCBs on a computer.
 
